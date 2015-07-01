@@ -14,21 +14,6 @@
 					<string>http://sqd.hg-rzzl.com/apps/homeCar.ipa</string>
 				</dict>
 				<dict>
-					<key>kind</key>
-					<string>full-size-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>http://sqd.hg-rzzl.com/apps/apps/app.png</string>
-				</dict>
-				<dict>
-					<key>kind</key>
-					<string>display-image</string>
-					<key>needs-shine</key>
-					<true/>
-					<key>url</key>
-					<string>http://sqd.hg-rzzl.com/apps/apps/app.png</string>
-				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
@@ -39,7 +24,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>车之家 下载中</string>
+				<string>dowload</string>
 			</dict>
 		</dict>
 	</array>
