@@ -11,16 +11,16 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://sqd.hg-rzzl.com/g4studio/apps/homeCar.ipa</string>
+					<string>http://x5.justep.com/apps/x5.ipa</string>
 				</dict>
 				<dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.etong.homeCar</string>
+				<string>com.justep.x5.demo</string>
 				<key>bundle-version</key>
-				<string>0.0.1</string>
+				<string>5.3.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
